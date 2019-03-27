@@ -20,9 +20,9 @@ Open the attached project. Modify aspects of the example project to display work
 * Create a form between the banner image and the lorem ipsum text with the following requirements:
   - The form contains a checkbox with a label
   - The form contains a picklist with the following values:
-    Inventory Monitoring
-    Order Management
-    MyInsights
+      * Inventory Monitoring
+      * Order Management
+      * MyInsights
   - The form contains a text field
   - The form contains a submit button
 
@@ -47,7 +47,7 @@ Open the attached project. Modify aspects of the example project to display work
   - Ensure that each input is on a separate line
   - Set the submit button to take up the entire width of the form
 
-### Javascript task:
+### Javascript tasks:
 * Link the JQuery library
 * Output some text in an alert whenever the site loads.
 * Create an Alert that displays the values of the form when selecting the submit button.

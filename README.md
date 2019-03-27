@@ -52,4 +52,4 @@ Open the attached project. Modify aspects of the example project to display work
 * Output some text in an __alert__ whenever the site loads
 * Create an __alert__ that displays the values of the form when selecting the submit button
 
-__Note__: Do not use pre-existing libraries like AngularJS, Bootstrap or JQuery.
+__Note__: Do not use any other pre-existing library.

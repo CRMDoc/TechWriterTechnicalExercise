@@ -44,7 +44,7 @@ Open the attached project. Modify aspects of the example project to display work
   - _Center_ the form
   - Set the _color_ of the form to gray
   - Give the form a _border radius_
-  - Ensure that each input is on a separate line
+  - Ensure that each _input_ is on a separate line
   - Set the _submit button_ to take up the entire width of the form
 
 ### Javascript tasks:

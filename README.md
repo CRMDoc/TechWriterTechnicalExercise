@@ -3,8 +3,8 @@
 __Goal__: Your goal is to modify the included website package according to the tasks below and send back a __.zip__ file of your personalized website.
 
 * Document the process and steps you take to complete this exercise. If are not able to complete the exercise successfully, that is okay. I want to see the steps you took to reach the completed portion of the exercise.
-* If you have questions, feel free to email me denice.swinnen@veeva.com.
-* Zip up the completed exercise and mail it back to me. 
+* If you have questions, feel free to email me.
+* Zip up the completed exercise and mail it back. 
 
 ## Technical Exercise
 
